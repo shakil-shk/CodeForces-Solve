@@ -72,7 +72,6 @@ public class Portal {
                 break;
             }
         }
-
         int[] result = new int[n];
         int idx = 0;
         for (int i = 0; i < split; i++) {
